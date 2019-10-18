@@ -1,7 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-
-
 int main(){
     int i,j,temp,a=0;
     int v[10];
